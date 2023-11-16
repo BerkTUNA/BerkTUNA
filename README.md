@@ -11,4 +11,8 @@
   
   <hr />
 
-📝Hello, I'm Berk, a dedicated game designer and <b>software engineer</b> with over 2 years of professional experience. I specialize in crafting engaging gameplay experiences and have a background in software engineering. With a solid background in Unreal Engine 4, I've successfully shipped 2 games, showcasing my skills and knowledge in game development. My ultimate goal is to bring to life the storyline I've been diligently crafting for years and turn it into an immersive gaming experience.
+📝Hello, I'm Berk, a dedicated <b>game designer</b> and <b>software engineer</b> with over <b>2 years</b> of professional experience. I specialize in crafting engaging gameplay experiences and have a background in software engineering. With a solid background in <b>Unreal Engine 4</b>, I've successfully <b>shipped 2 games</b>, showcasing my skills and knowledge in game development.
+
+ <p align="center">  
+    <a href="https://berktuna.com/" target="blank">Visit my Portfolio </a>
+  </p>
