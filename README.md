@@ -1,29 +1,21 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Berk Tuna</h1>
+<h3 align="center">Technical Game Designer</h3>
 
-### Projects I've worked with UE4;
-    https://berktuna.itch.io/eva
-    
-    https://berktuna.itch.io/the-last-four
-   
-    https://berktuna.itch.io/god-of-guitar
-    
-    https://berktuna.itch.io/matchjump
-    
-    https://berktuna.itch.io/escape-the-trolls
-    
-    https://store.steampowered.com/app/2094930/Farm_Wars/
-<!--
-**BerkTUNA/BerkTUNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://user-badge.committers.top/turkey_private/EngincanV">
+    <img src="https://user-badge.committers.top/turkey_private/EngincanV.svg" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">  
+    <a href="https://www.linkedin.com/in/berk-tuna-0b22a9208/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+    <a href="https://twitter.com/berktunaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/EngincanVeske?style=social" /></a>
+    <a href="https://medium.com/@berk.tuna33" target="blank"><img src="https://img.shields.io/badge/500+-grey?logo=medium&label=medium" /></a>
+    <a href="mailto:contact@berktuna.com" target="blank"><img src="https://img.shields.io/badge/contact%20with%20me-white?logo=gmail" /></a>
+  </p>
+  
+  <hr />
